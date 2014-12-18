@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb 0.201412111631+5320~19~ubuntu14.04.1-product   date = Sat 13 Dec 2014 11:19:44 PM EET
+
+BeginCmp
+TimeStamp = /548C8674;
+Reference = C1;
+ValeurCmp = 1n;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /548C8996;
+Reference = C2;
+ValeurCmp = 1n;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /548C86EB;
+Reference = P1;
+ValeurCmp = CNT-RJ45;
+IdModule  = awallin:ETH-MAGJACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /548C918C;
+Reference = P2;
+ValeurCmp = CONN_02X40;
+IdModule  = awallin:cardedge_40x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /548C8849;
+Reference = R1;
+ValeurCmp = 220R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /548C8821;
+Reference = R2;
+ValeurCmp = 220R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /548C8A5B;
+Reference = R3;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+EndListe
