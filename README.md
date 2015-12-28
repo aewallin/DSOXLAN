@@ -21,3 +21,7 @@ Files:
 
 Released under the CERN OHL. See http://ohwr.org/cernohl
 
+Links
+=====
+* http://anagram.net/nuts/DSOXLAN/
+* http://www.anderswallin.net/2014/12/diy-dsoxlan/
