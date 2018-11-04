@@ -11,6 +11,7 @@ for the original schematic and PCB layout.
 
 Components:
 * Ethernet jack, Digi-Key nr 1419-1021-ND
+ * Alternative: EDAC A63-113-213N491, Conrad Bestell-Nr.: 1396364-62 
 * 2pcs 220R 0805 resistor
 * 1pcs 10R 0805 resistor
 * 1pcs 100n 0805 capacitor
