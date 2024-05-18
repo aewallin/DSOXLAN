@@ -702,7 +702,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/6cc58ec6-02b7-4453-bb6e-2d65db715231")
     (attr exclude_from_pos_files)
-    (fp_text reference "H102" (at 0 -3.85) (layer "F.SilkS")
+    (fp_text reference "H102" (at 0 -3.85) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 796c4288-2615-469e-8cd1-433891344f6d)
     )
@@ -732,7 +732,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/4d4e9ac0-5088-495a-8236-fb1908a93715")
     (attr exclude_from_pos_files)
-    (fp_text reference "H101" (at 0 -3.85) (layer "F.SilkS")
+    (fp_text reference "H101" (at 0 -3.85) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a784db69-c913-46a7-8a4d-83c176fe778e)
     )
@@ -762,7 +762,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/f64d9d73-32b7-431e-b47d-de1d3f65dfe1")
     (attr exclude_from_pos_files)
-    (fp_text reference "H103" (at 0 -3.85) (layer "F.SilkS")
+    (fp_text reference "H103" (at 0 -3.85) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0527a415-d33a-412e-8d95-e32840009ce6)
     )
@@ -792,7 +792,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/58d882bf-2aba-417c-bf11-6b61d301d60c")
     (attr exclude_from_pos_files)
-    (fp_text reference "H104" (at 0 -3.85) (layer "F.SilkS")
+    (fp_text reference "H104" (at 0 -3.85) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9821ceff-3466-4065-8856-3ec685c1bde4)
     )
@@ -1223,7 +1223,7 @@
   (gr_text "AW 2014-12-18" (at 230.378 184.404) (layer "Cmts.User") (tstamp b2e6aeb3-9286-4078-a0e1-eaa613deb58f)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "ETH Magjack\nDigi-Key 1419-1021-ND" (at 106.4 96.4 90) (layer "Cmts.User") (tstamp b8dd705f-bb25-4197-89b9-d39996c82444)
+  (gr_text "Bel Fuse\n08B0-1X1T-36-F" (at 106.4 96.4 90) (layer "Cmts.User") (tstamp b8dd705f-bb25-4197-89b9-d39996c82444)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
   (gr_text "DIY DSOXLAN for Agilent DSO-X 2000 and 3000" (at 182.245 174.625) (layer "Cmts.User") (tstamp badfe143-fe9b-4c4a-9d32-99ed3ad8a8d4)
