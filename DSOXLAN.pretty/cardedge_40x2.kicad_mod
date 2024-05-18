@@ -10,7 +10,7 @@
     (tstamp 4e032476-3993-4301-9b59-da64b00de5f0)
   )
   (fp_line (start -2.4 -16.8) (end -2.4 -20.8)
-    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 7c151334-6bf5-4efc-bde0-fbeed2ef54b8))
+    (stroke (width 0.15) (type solid)) (layer "Cmts.User") (tstamp 7c151334-6bf5-4efc-bde0-fbeed2ef54b8))
   (pad "1" connect rect (at 0 0) (size 3.6 0.55) (layers "F.Cu" "F.Mask") (tstamp 805f0761-cac8-45a1-97f8-9c90886ad60a))
   (pad "2" connect rect (at 0 0) (size 3.6 0.55) (layers "B.Cu" "B.Mask") (tstamp a6db0ba8-a637-4752-a540-43e9dc353f73))
   (pad "3" connect rect (at 0 -0.8) (size 3.6 0.55) (layers "F.Cu" "F.Mask") (tstamp a67bb1ec-8414-4155-b411-8cc04aaca85e))
