@@ -833,7 +833,7 @@
   (footprint "DSOXLAN:Lid" (layer "F.Cu")
     (tstamp 3d7835bb-886c-4a7e-a9ef-7d549183ad49)
     (at 113 88.392)
-    (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 32458884-c057-4d4e-b2d0-39b4ddaaf5b5)
     )
@@ -873,7 +873,7 @@
   (footprint "DSOXLAN:Spacer2b" (layer "F.Cu")
     (tstamp 43e58110-dcbf-47df-8ff6-7026d490472e)
     (at 170 88.392 90)
-    (fp_text reference "REF**" (at 0 -0.5 90 unlocked) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -0.5 90 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 00209d71-fb89-4295-8f77-1b05ae25746a)
     )
@@ -1262,7 +1262,7 @@
   (footprint "DSOXLAN:Spacer1a" (layer "B.Cu")
     (tstamp 5b53bbd3-9743-4819-ae64-1ac99442341f)
     (at 170 88.392 90)
-    (fp_text reference "REF**" (at 0 0.5 270 unlocked) (layer "B.SilkS")
+    (fp_text reference "REF**" (at 0 0.5 270 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f3470a8a-4517-4ad4-9116-b399a82c66e2)
     )
