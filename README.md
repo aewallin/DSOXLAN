@@ -10,8 +10,7 @@ Many thanks to "georges80" on the EEVBlog forum
 for the original schematic and PCB layout.
 
 Components:
-* Ethernet jack, Digi-Key nr 1419-1021-ND
- * Alternative: EDAC A63-113-213N491, Conrad Bestell-Nr.: 1396364-62 
+* Ethernet jack, WÜRTH 7499010121A
 * 2pcs 220R 0805 resistor
 * 1pcs 10R 0805 resistor
 * 1pcs 100n 0805 capacitor
@@ -20,9 +19,15 @@ Files:
 * Kicad: schematic, PCB, project, cmp, netlist
 * non-standard footprints in /footprints: Ethernet magjack, 2x40-pin card-edge connector.
 
+3D print components for case obtained from
+
+https://www.eevblog.com/forum/projects/diy-dsoxlan-interface-for-keysight-oscilloscopes/msg4323214/#msg4323214
+
+Apparently they have been authored by Jay_Diddy_B.
+
 Released under the CERN OHL. See http://ohwr.org/cernohl
 
 Links
 =====
-* http://anagram.net/nuts/DSOXLAN/
+* https://web.archive.org/web/20200225205940/http://anagram.net/nuts/DSOXLAN/
 * http://www.anderswallin.net/2014/12/diy-dsoxlan/
