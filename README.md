@@ -27,6 +27,26 @@ Apparently they have been authored by Jay_Diddy_B.
 
 Released under the CERN OHL. See http://ohwr.org/cernohl
 
+Images
+======
+
+Using the 3D printed front cover and spacers, the entire module looks like:
+
+![DSOXLAN front side](images/dsoxlan-front.jpg)
+![DSOXLAN back side](images/dsoxlan-back.jpg)
+
+The oscilloscope features a built-in HTTP server.
+The LAN settings page from the oscilloscope:
+
+![DSO-X LAN settings](images/lansettings.png)
+
+There are also options for remote control straight from the HTTP
+server. Some of them require Java, but when selecting the "Tablet"
+mode, it offers an HTML5 control option:
+
+![DSO-X HTML5 screen](images/html5control.png)
+
+
 Links
 =====
 * https://web.archive.org/web/20200225205940/http://anagram.net/nuts/DSOXLAN/
