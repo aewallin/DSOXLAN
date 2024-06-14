@@ -46,6 +46,9 @@ mode, it offers an HTML5 control option:
 
 ![DSO-X HTML5 screen](images/html5control.png)
 
+(Note: the above module has been built using a slightly different version
+of the Würth RJ45 jack, 7499011121A. If anyone wants to use exactly
+these, see https://github.com/dl8dtl/DSOXLAN/tree/WE7499011121A )
 
 Links
 =====
