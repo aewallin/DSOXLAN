@@ -23,6 +23,9 @@ Files:
 
 https://www.eevblog.com/forum/projects/diy-dsoxlan-interface-for-keysight-oscilloscopes/msg4323214/#msg4323214
 
+The mounting holes for the screws are 3.2 mm in diameter, so M3 screws
+fit well.
+
 Apparently they have been authored by Jay_Diddy_B.
 
 Released under the CERN OHL. See http://ohwr.org/cernohl
