@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "dsoxlan")(type "KiCad")(uri "${KIPRJMOD}/dsoxlan.kicad_sym")(options "")(descr ""))
-)
