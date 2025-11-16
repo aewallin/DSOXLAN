@@ -11,9 +11,9 @@ for the original schematic and PCB layout.
 
 Components:
 * Ethernet jack, WÜRTH 7499010121A
-* 2pcs 220R 0805 resistor
+* 2pcs 470R 0805 resistor
 * 1pcs 10R 0805 resistor
-* 1pcs 100n 0805 capacitor
+* 1pcs 1n 0805 capacitor
 
 Files:
 * Kicad: schematic, PCB, project, cmp, netlist
